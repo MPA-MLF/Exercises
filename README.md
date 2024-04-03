@@ -9,3 +9,10 @@ This repository contains lab tasks for course *Machine learning fundamentals* *M
 ## Lab list
 
 1. Python basics
+1. Kmeans
+1. SVM
+1. PCA
+1. Feedforward Neural Networks
+1. Feedforward Neural Networks with regularization techniques and hyperparameter tunning
+1. Convolutional Neural Networks
+1. Recurent Neural Networks
